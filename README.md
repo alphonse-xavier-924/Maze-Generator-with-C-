@@ -11,5 +11,5 @@ It demonstrates maze creation with the Depth-First Search (DFS) algorithm and vi
 - [SFML library](https://www.sfml-dev.org/)
 
 ## Setting up SFML
-https://www.sfml-dev.org/index.php
-https://www.youtube.com/watch?v=VWWSc2nqrEA
+- https://www.sfml-dev.org/index.php
+- https://www.youtube.com/watch?v=VWWSc2nqrEA
